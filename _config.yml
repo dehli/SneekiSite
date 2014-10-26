@@ -1,0 +1,15 @@
+# Site settings
+title: Sneeki
+emailOne: contact@sneeki.me
+emailTwo: legal@sneeki.me
+description: > # this means to ignore newlines until "baseurl:"
+  Sneeki is an anonymous, location-based, photo sharing app.
+  It is available for iOS and Android. Keep it Sneeki!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sneekiapp.com" # the base hostname & protocol for your site
+facebook_username: SneekiApp
+twitter_username: SneekiApp
+instagram_username: SneekiApp
+
+# Build settings
+markdown: kramdown

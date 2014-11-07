@@ -4,8 +4,30 @@ layout: default
 
 <div class="home">
 	
-	<iframe width="100%" height="420" src="//www.youtube.com/embed/F_1xm3JanIw" frameborder="0" 
-		allowfullscreen style="display: block;margin-left: auto;margin-right: auto;"></iframe>	
+	<div id="player" style="display: block;margin-left: auto;margin-right: auto;"></div>
+	
+	<script>
+	      var tag = document.createElement('script');
+	      tag.src = "//www.youtube.com/player_api";
+	      var firstScriptTag = document.getElementsByTagName('script')[0];
+	      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+	      var player;
+	      function onYouTubePlayerAPIReady() {
+	        player = new YT.Player('player', {
+	          playerVars: { 'autoplay': 1, 'controls': 1,'autohide':1,'wmode':'opaque' },
+	          videoId: 'F_1xm3JanIw',
+	          events: {
+	            'onReady': onPlayerReady}
+	        });
+	      }
+
+	      function onPlayerReady(event) {
+	        event.target.mute();
+	      }
+	</script>
+	
+	<!-- iframe width="100%" height="420"-->
     
 	<div style="width:50%; margin:0 auto;">
       	<p class="text" style="text-align:center;">{{ site.description }}</p>

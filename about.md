@@ -40,13 +40,3 @@ In the event of any failure by Sneeki, to conform to any applicable warranty, th
 In the event of any claimed intellectual property infringement, we are liable for investigation, defense, settlement, and discharge of any such intellectual property infringment clam.
 
 Apple, and Apple's subsidiaries, are third party beneficiaries of the EULA. Upon the end-user's acceptance of the EULA, Apple will have the right to enforce the EULA against the end-user as a third party beneficiary.
-
-Contact Info
-<ul>
-	<li>Christian Dehli</li>
-	<li>300 Heinz St. C501</li>
-	<li>Pittsburgh, PA 15212</li>
-	<li>U.S.A.</li>
-	<li>+1 (909) 453-3454</li>
-	<li>contact@sneeki.me</li>
-</ul>

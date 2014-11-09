@@ -1,6 +1,6 @@
 ---
-title: Inspiration
+title: The Birth of Sneeki
 ---
 Earlier in the year, Yik Yak started to gain a lot of traction. It's an anonymous, location based, Twitter, and I loved the idea. However, I never got into Twitter, preferring sharing photos through Instagram. With this, Snip Snap was born. I started working on it in July of 2014. After a few weeks of work, I decided a different name was needed. I decided on Sneeki.
 
-It's been a great learning experience, and I'm constantly working on making it even better. When I see people using it, it encourages me to make Sneeki even better.
+It's been a great learning experience. When people use it, I'm encouraged to make Sneeki even better!

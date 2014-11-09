@@ -4,7 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-We are very grateful that you choose to use Sneeki. Please contact us for any reason, we love to hear from our users. If you're interested in becoming a brand ambassador click <a href="//sneekiapp.com/ambassador/">here</a>.
+We are very grateful that you chose to use Sneeki.<br>
+Please feel free to contact us.<br>
+We love to hear from our users!<br>
+
+If you are interested in becoming a brand ambassador, click <a href="//sneekiapp.com/ambassador/">here</a>.
 
 <form action="http://getsimpleform.com/messages?form_api_token=4f9d4fe9cd5a70758f2c79b773d8c2fa" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->

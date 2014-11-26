@@ -21,11 +21,14 @@ Content Terms
 	<li>The content you submit must not be violent.</li>
 	<li>The content you submit must not have nudity of any kind.</li>
 	<li>The content you submit must not be offensive.</li>
+	<li>You must not upload content that you do not have permission to.</li>
 </ol>
 
 If you violate any of the terms and conditions, your account will be banned temporarily. Repeat offenses will result in a permanent termination of your account.
 
 We reserve the right to ban any account and remove any content without notice.
+
+We reserve the right to release information on any content you have posted in the past and future.
 
 This EULA is concluded between Sneeki and you, the end-user. Apple is not part of this agreement. We are solely responsible for the app. 
 
